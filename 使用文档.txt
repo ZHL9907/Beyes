@@ -1,0 +1,9 @@
+1.运行软件:
+pycharm
+
+2.插件:
+pip install jieba
+pip install python-docx
+
+3.操作过程：
+朴素贝叶斯算法应用——文本分类，影评训练文本放在在lhxTrainSample.npz文件中，可按"装入样本”直接打开这个文件，然后按“Bayes学习"，进行学习训练，然后按"打开文档”选择FilmTestData文件夹中的影评进行测试，打开影评文档后按“Bayes分类”就可以在识别结果看分类结果了
